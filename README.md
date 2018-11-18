@@ -1,3 +1,3 @@
 # Decision tree
-main - основная часть
+main - основная часть, 
 tree - дерево 
